@@ -1,1 +1,1 @@
-# datafun-04-jupiter
+# datafun-04-jupyter
